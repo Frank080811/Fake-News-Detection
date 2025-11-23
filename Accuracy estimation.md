@@ -1,0 +1,2 @@
+## Accuracy estimation.
+Based on the validation results for the final Linear SVM model (Accuracy ≈ 94.1%, Precision ≈ 93.2%, Recall ≈ 94.7%, F1 ≈ 93.9% on a held-out validation set), I expect the model to reach around 93–95% accuracy on unseen test data drawn from the same distribution. A small drop compared to the validation score is possible due to dataset shift and the fact that the hyperparameters were tuned on the training/validation split, but overall the model should remain in the low-to-mid 90% accuracy range for distinguishing real vs. fake news headlines.
