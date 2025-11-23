@@ -38,17 +38,17 @@ Your final task is to replace 2 with the predicted label (0 or 1).
 This project demonstrates a full modern NLP workflow:
 
 This project demonstrates a full modern NLP workflow:
-✔ Data Cleaning
-✔ Stopword Removal
-✔ Feature Engineering
-✔ TF-IDF Vectorization
-✔ Model Training
-✔ Hyperparameter Tuning
-✔ Evaluation with Confusion Matrix & ROC
-✔ Final Prediction Export
+* ✔ Data Cleaning
+* ✔ Stopword Removal
+* ✔ Feature Engineering
+* ✔ TF-IDF Vectorization
+* ✔ Model Training
+* ✔ Hyperparameter Tuning
+* ✔ Evaluation with Confusion Matrix & ROC
+* ✔ Final Prediction Export
 
 
-**📂 Project Structure**
+📂 Project Structure
 │── data/
 │   ├── training_data.csv
 │   ├── testing_data.csv
@@ -58,7 +58,6 @@ This project demonstrates a full modern NLP workflow:
 │
 │── plots/
 │   ├── final_predictions.csv
-│ 
 │
 │── README.md
 
@@ -200,8 +199,6 @@ Final output saved as:
 * Classical ML (SVM + TF-IDF + engineered features) can outperform deep learning on short text.
 
 * Feature engineering significantly boosted model performance.
-```
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -244,3 +241,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 ### ⭐ Don't forget to star this repository if you found it helpful!
 
 </div>
+
+```
+
+
